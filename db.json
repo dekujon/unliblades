@@ -1,0 +1,24 @@
+{
+    "todos": [
+      {
+        "name": "go to the gym",
+        "id": 1
+      },
+      {
+        "name": "go to school",
+        "id": 3
+      },
+      {
+        "name": "buy cookies",
+        "id": 4
+      },
+      {
+        "name": "go to icm",
+        "id": 6
+      },
+      {
+        "name": "create memories",
+        "id": 7
+      }
+    ]
+  }
